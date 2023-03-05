@@ -1,0 +1,13 @@
+public class Main {
+    public static void main(String[] args) {
+        int numeroInicio = 5;
+        int numeroFinal = 15;
+
+        for (int i = numeroFinal;i >= numeroInicio ;i--) {
+            if(i % 2 ==1){
+
+
+            System.out.println(i + " es un número impar");
+        }}
+    }
+}
